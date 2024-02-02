@@ -1,0 +1,10 @@
+{
+    "id": "lava-assistant-dm",
+    "name": "Lava Assistant DM",
+    "version": "1.0.0",
+    "minAppVersion": "1.5.12",
+    "description": "tbd",
+    "author": "Lavaforge",
+    "authorUrl": "https://github.com/lavaforge",
+    "isDesktopOnly": true
+}
